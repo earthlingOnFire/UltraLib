@@ -37,8 +37,4 @@
     </Reference>
   </ItemGroup>
 
-  <ItemGroup>
-    <Content Include="UltraLib.csproj.user" />
-  </ItemGroup>
-
 </Project>
